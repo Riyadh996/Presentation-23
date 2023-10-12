@@ -54,7 +54,7 @@ body {
  
   
   .titles span {
-    display: none;
+    display:none;
   }
   
   .titles span:first-child {
