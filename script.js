@@ -15,3 +15,4 @@ psb.addEventListener("click", (e) => {
   pos.innerHTML = cs + 1;
   chv.style.transform = "translateX(" + (-100 * cs) + "vw)";
 })
+
